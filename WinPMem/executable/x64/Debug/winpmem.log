@@ -1,0 +1,8 @@
+﻿  main.cpp
+  winpmem.cpp
+C:\Users\Fullstack\source\test\executable\winpmem.cpp(190,47): warning C4244: '=': conversion from '__int64' to 'BOOL', possible loss of data
+C:\Users\Fullstack\source\test\executable\winpmem.cpp(367,24): warning C4101: 'lt': unreferenced local variable
+C:\Users\Fullstack\source\test\executable\winpmem.cpp(901,9): warning C4996: '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Fullstack\source\test\executable\winpmem.cpp(940,9): warning C4996: '_vsnwprintf': This function or variable may be unsafe. Consider using _vsnwprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+  winpmem.vcxproj -> C:\Users\Fullstack\source\test\executable\x64\Debug\winpmem.exe

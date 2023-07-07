@@ -1,0 +1,2 @@
+C:\Users\Fullstack\Downloads\WinPmem-master\WinPmem-master\kernel\executable\x64\Debug\winpmem.exe
+C:\Users\Fullstack\source\test\executable\x64\Debug\winpmem.exe
